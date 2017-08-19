@@ -1,0 +1,35 @@
+.regForm {
+  margin: 100px auto;
+  border: 1px solid rgb(209,204,204);
+  padding: 80px;
+  background: rgba(221,221,221,0.35)
+}
+.regBtn{
+  margin: 0 auto;
+  display: block;
+}
+.linkLogin{
+  text-align: center;
+  margin-top: 30px;
+}
+@media screen and (min-width:640px) {
+   .regForm{
+    width: 40vw;
+    min-width: 400px;
+   }
+  .regBtn {
+    width: 20vw;
+    height: 40px;
+    font-size: 16px;
+  }
+}
+@media screen and (max-width:640px) {
+   .regForm{
+    width: 100vw;
+   }
+  .regBtn {
+    width: 30vw;
+    height: 30px;
+    font-size: 12px;
+  }
+}

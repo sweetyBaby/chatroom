@@ -1,4 +1,4 @@
-# chatroom
+# React
 
 ## 技术栈
 * 前后端分离开发
@@ -15,7 +15,7 @@
 ##安装
 
 ```
-git clone git@github.com:mumu-xi/chatroom.git
+git clone git@gitdojo.gz.cvte.cn:zhengnanhui/tm-chat.git
 ```
 ```
 npm install
@@ -26,6 +26,7 @@ npm run build
 ```
 npm run server
 ```
+
 ## 接口文档
 用户登录
 ```
