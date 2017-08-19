@@ -6,8 +6,7 @@
     "react",
     "express"
   ],
-  "website": "https://wereinhq.com/guides/react",
-  "repository": "https://github.com/werein/react",
+  "repository": "https://github.com/mumu-xi/chatroom",
   "success_url": "/",
   "env": {
     "PORT": {
